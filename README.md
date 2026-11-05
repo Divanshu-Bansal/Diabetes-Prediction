@@ -36,16 +36,12 @@ For the end to end execution of this pipeline using google colab we would need 2
 ### Notebook - 2
 **Step 1 - Clone the repository**
 ```
-!git clone -b mlops-level1  https://github.com/nue3535/aramco.git
+!git clone https://github.com/Divanshu-Bansal/Diabetes-Prediction.git
 ```
-
->**Note -** For now we are clonning branch **mlops-level1**. If you want to clone main branch use command
->
->```!git clone https://github.com/nue3535/aramco.git```
 
 **Step 2 - Change your current directory to aramco**
 ```
-%cd aramco/
+%cd Diabetes-Prediction/
 ```
 
 **Step 3 - Install clearml**
