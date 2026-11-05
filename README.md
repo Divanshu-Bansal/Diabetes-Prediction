@@ -1,7 +1,7 @@
 # Diabetes-Prediction
 
 ## Objective
-This product aims to develop an AI-driven diabetes management system to provide diabete predictions. By leveraging AI, this product will improve patient health outcomes, reduce the burden on healthcare providers, and enhance the accuracy of diabetes management decisions.
+This product aims to develop an AI-driven diabetes management system to provide diabetes predictions. By leveraging AI, this product will improve patient health outcomes, reduce the burden on healthcare providers, and enhance the accuracy of diabetes management decisions.
 
 ## ClearML Pipeline Execution Steps - Using Google Colab
 For the end to end execution of this pipeline using google colab we would need 2 notebooks. First notebook is to work as agent for ClearML to execute the pipeline and in the second notebook we will execute the steps to actually run the pipeline after registering the task templates in ClearML.
