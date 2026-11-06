@@ -39,7 +39,7 @@ For the end to end execution of this pipeline using google colab we would need 2
 !git clone https://github.com/Divanshu-Bansal/Diabetes-Prediction.git
 ```
 
-**Step 2 - Change your current directory to aramco**
+**Step 2 - Change your current directory to Diabetes-Prediction**
 ```
 %cd Diabetes-Prediction/
 ```
